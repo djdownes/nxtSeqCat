@@ -1,2 +1,2 @@
 # nxtSeqCat
-Concatenation of multilane output of an Illumina NextSeq
+Concatenation of multilane fastq file output of an Illumina NextSeq run
